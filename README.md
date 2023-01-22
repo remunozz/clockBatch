@@ -7,4 +7,3 @@ Esta programa fue creado por Raúl Muñoz guiado por @python.code_.
 # Ejecutar la Aplicación
 
 Doble click en el archivo: clockBatch.bat
-_________________________________________________________________________________________________
